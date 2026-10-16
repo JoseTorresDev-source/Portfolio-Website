@@ -2,7 +2,7 @@
 
 A hand-coded personal portfolio website built with HTML, CSS, and vanilla JavaScript. No frameworks — every feature written from scratch.
 
-**Live site:** https://cnbloo.github.io/Portfolio-Website/
+**Live site:** 
 
 ---
 
