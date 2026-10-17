@@ -274,7 +274,7 @@ nav ul li a:hover::after {
 
 .hero-content {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   gap: var(--spacing-xl);
   flex-wrap: wrap;
@@ -283,8 +283,8 @@ nav ul li a:hover::after {
 }
 
 .hero-text {
-  flex: 1;
-  min-width: 320px;
+  flex: 0 1 620px;
+  min-width: 0;
 }
 
 .term-panel {
@@ -292,6 +292,7 @@ nav ul li a:hover::after {
   border-radius: 2px;
   background: var(--color-bg-card);
   max-width: 620px;
+  margin: 0 auto;
 }
 
 .term-head {
@@ -410,6 +411,7 @@ nav ul li a:hover::after {
 
 .about-col-2 {
   max-width: 720px;
+  margin: 0 auto;
 }
 
 /* Tabs */
